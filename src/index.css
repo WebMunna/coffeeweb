@@ -21,6 +21,7 @@ body{
 .header{
   display: grid;
   grid-template-columns: 1fr 1fr;
+  width: 1200px;
 }
 
 .logo img{
@@ -37,6 +38,13 @@ body{
   color: white;
   text-decoration: none;
   padding-right: 10px ;
+  
+}
+
+.header .navigation ul li {
+  list-style: none;
+  
+  
   
 }
 
