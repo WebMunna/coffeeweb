@@ -54,7 +54,7 @@ body{
   margin-top: 1px;
   display: grid;
   grid-template-columns: 1fr;
-  
+  width: 1320px;
   color: rgb(255, 255, 255);
   background-image: url('./image/home-img.jpeg');
   background-size: contain;
@@ -98,6 +98,7 @@ body{
 }
 
 .about-title{
+  width: 1200px;
   font-size: 50px;
 }
 .about-span{
@@ -152,6 +153,7 @@ color: rgb(240, 170, 71);
 }
 
 .menu-title{
+  width: 1200px;
   font-size: 50px;
 }
 .menu-span{
@@ -189,6 +191,7 @@ color: rgb(255, 255, 255);
 }
                     
 .product-title{
+  width: 1200px;
    font-size: 50px;
  }
  .product-span{
@@ -231,6 +234,7 @@ color: rgb(255, 255, 255);
 }
                     
 .customer-title{
+  width: 1200px;
    font-size: 50px;
  }
  .customer-span{
@@ -300,6 +304,7 @@ color: rgb(255, 255, 255);
 }
 
 .contact-title{
+  width: 1200px;
         font-size: 50px;
  }
 .contact-span{
@@ -350,6 +355,7 @@ border: 1px rgb(85, 83, 83) solid;
  }
                      
  .blog-title{
+   width: 1200px;
     font-size: 50px;
   }
   .blog-span{
@@ -382,6 +388,7 @@ border: 1px rgb(85, 83, 83) solid;
                 /* FOOTER SECTION */
 
 .footer{
+  width: 1320px;
   text-align: center;
   margin-top: 20px;
   padding-top: 30px;
