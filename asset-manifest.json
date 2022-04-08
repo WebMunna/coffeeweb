@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/coffeeweb/static/css/main.edd3cd2c.css",
+    "main.js": "/coffeeweb/static/js/main.88d2d8a4.js",
+    "static/media/home-img.jpeg": "/coffeeweb/static/media/home-img.e39539bb5a58d6827d50.jpeg",
+    "static/media/map.png": "/coffeeweb/static/media/map.bbb836c5a2be90a10687.png",
+    "static/media/about-img.jpeg": "/coffeeweb/static/media/about-img.3f087d850ed9e2aef04a.jpeg",
+    "static/media/product-1.png": "/coffeeweb/static/media/product-1.fab431365a66ae1a7a9d.png",
+    "static/media/product-3.png": "/coffeeweb/static/media/product-3.5c1364d4957356e274ad.png",
+    "static/media/product-2.png": "/coffeeweb/static/media/product-2.1df5e326bd44535bdd89.png",
+    "static/media/pic-1.png": "/coffeeweb/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/pic-2.png": "/coffeeweb/static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/pic-3.png": "/coffeeweb/static/media/pic-3.1ef1ecba9db4ad9c12c8.png",
+    "static/media/blog-2.jpeg": "/coffeeweb/static/media/blog-2.93f4b59aa4e83faba1b0.jpeg",
+    "static/media/blog-1.jpeg": "/coffeeweb/static/media/blog-1.87bd2070e31e0084e8f8.jpeg",
+    "static/media/blog-3.jpeg": "/coffeeweb/static/media/blog-3.9076833f46becdc562f2.jpeg",
+    "static/media/menu-6.png": "/coffeeweb/static/media/menu-6.0913472918ae29b4626f.png",
+    "static/media/menu-4.png": "/coffeeweb/static/media/menu-4.c16f535884cf407af21a.png",
+    "static/media/menu-2.png": "/coffeeweb/static/media/menu-2.39568caf87617df10355.png",
+    "static/media/menu-5.png": "/coffeeweb/static/media/menu-5.43f882bf6e0cbe58dee4.png",
+    "static/media/menu-1.png": "/coffeeweb/static/media/menu-1.298439f74041cf927150.png",
+    "static/media/menu-3.png": "/coffeeweb/static/media/menu-3.44d221229e80535a7010.png",
+    "static/media/logo.png": "/coffeeweb/static/media/logo.55d556797d691dd4dbb9.png",
+    "index.html": "/coffeeweb/index.html",
+    "main.edd3cd2c.css.map": "/coffeeweb/static/css/main.edd3cd2c.css.map",
+    "main.88d2d8a4.js.map": "/coffeeweb/static/js/main.88d2d8a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edd3cd2c.css",
+    "static/js/main.88d2d8a4.js"
+  ]
+}
